@@ -250,4 +250,22 @@ unifucamp.edu.br
 sag.unifucamp.edu.br
 moodle.unifucamp.edu.br
 www.unifucamp.edu.br
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+googlevideo.com
+redirector.googlevideo.com
+spotify.com
+www.spotify.com
+open.spotify.com
+api.spotify.com
+spclient.wg.spotify.com
+scdn.co
+audio-fa.scdn.co
+audio4-fa.scdn.co
+
 
