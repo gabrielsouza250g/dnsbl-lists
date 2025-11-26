@@ -246,3 +246,6 @@ pelando.com.br
 tudogostoso.com.br
 adorocinema.com
 omelete.com.br
+www.unifucamp.edu.br
+sag.unifucamp.edu.br
+moodle.unifucamp.edu.br
