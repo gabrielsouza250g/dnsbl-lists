@@ -2424,3 +2424,12 @@ audio4-fa.scdn.co
 0.0.0.0 z-p42-scontent.cdninstagram.com
 0.0.0.0 z-p42-static.cdninstagram.com
 0.0.0.0 scontent.fallback.cdninstagram.com
+facebook.com
+www.facebook.com
+fbcdn.net
+fb.com
+messenger.com
+m.me
+instagram.com
+www.instagram.com
+cdninstagram.com
