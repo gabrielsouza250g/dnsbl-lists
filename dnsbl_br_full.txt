@@ -4974,12 +4974,3 @@ redirector.googlevideo.com
 yt3.googleusercontent.com
 yt4.googleusercontent.com
 inscricoes.unicesumar.edu.br
-youtube.com
-www.youtube.com
-m.youtube.com
-ytimg.com
-s.ytimg.com
-ytimg.l.google.com
-youtube-ui.l.google.com
-googlevideo.com
-ytimg.com
